@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "name": "Mohamed Karam",
+    "role": "General Manager",
+    "bio": "Mohamed Karam is an experienced professional in the tourism and hospitality industry with over 10 years of expertise. He works as a hotel manager and has a strong background in tourism operations, customer service, and hospitality management.\n\nThroughout his career, he has developed a deep understanding of all aspects of the tourism sector, including hotel administration, guest relations, team leadership, and improving service quality. Mohamed is known for his strong organizational skills, problem-solving ability, and attention to detail, which help him ensure smooth daily operations in the hotel.\n\nHe is highly passionate about tourism and always aims to deliver an excellent guest experience. Over the years, he has gained solid knowledge in handling different types of customers and managing hotel staff efficiently, making him a reliable and skilled professional in his field.",
+    "languages": [
+      "Arabic",
+      "English",
+      "spanish"
+    ],
+    "speciality": "Guest Relations & Hotel Operations",
+    "image": "/images/1777420805928-WhatsApp_Image_2026-04-29_at_2.50.20_AM.jpeg"
+  },
+  {
+    "id": 2,
+    "name": "Mostafa Ahmed",
+    "role": "IT & Web Development Specialist | Guest Relations Coordinator (Tourism)",
+    "bio": "Mostafa Ahmed is an IT and Web Development specialist working in the tourism and hotel industry. He is responsible for managing all technology-related tasks within the hotel, including IT systems, website development, and technical support for daily operations.\n\nHe has over 5 years of experience in the tourism field, where he developed strong skills in both technology and hospitality services. Mostafa is highly experienced in dealing with international guests, drivers, and tour arrangements, ensuring smooth and well-organized travel experiences for customers.\n\nHe is also skilled in coordinating tourism trips and creating efficient solutions that improve hotel services and guest satisfaction. Thanks to his technical background and communication skills, he bridges the gap between technology and tourism operations, making hotel services more modern and effective.",
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "speciality": "",
+    "image": "/images/1777420813510-WhatsApp_Image_2026-04-29_at_2.56.01_AM.jpeg"
+  },
+  {
+    "id": 3,
+    "name": "Omar Mohamed",
+    "role": "Reception & Guest Experience Coordinators | Tour Planning Specialists",
+    "bio": "Omar work at the hotel in the reception and guest relations department. They are responsible for communicating with guests, understanding their needs, and offering them the best travel and tourism experiences in Egypt.\n\nThey specialize in organizing and planning trips, tours, and activities for guests. Their role includes convincing and guiding guests to choose suitable travel packages, ensuring they enjoy the best possible experience during their stay.\n\nThey also handle all guest-related services at the reception, including answering inquiries, managing bookings, and coordinating with drivers and tour guides. With strong communication and persuasion skills, they play a key role in improving guest satisfaction and promoting tourism activities.",
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "speciality": "",
+    "image": "/images/1777420702733-WhatsApp_Image_2026-04-29_at_2.50.59_AM__1_.jpeg"
+  },
+  {
+    "id": 4,
+    "name": "Seif Amr",
+    "role": "Reception & Guest Experience Coordinators | Tour Planning Specialists",
+    "bio": "Seif work at the hotel in the reception and guest relations department. They are responsible for communicating with guests, understanding their needs, and offering them the best travel and tourism experiences in Egypt.\n\nThey specialize in organizing and planning trips, tours, and activities for guests. Their role includes convincing and guiding guests to choose suitable travel packages, ensuring they enjoy the best possible experience during their stay.\n\nThey also handle all guest-related services at the reception, including answering inquiries, managing bookings, and coordinating with drivers and tour guides. With strong communication and persuasion skills, they play a key role in improving guest satisfaction and promoting tourism activities.",
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "speciality": "",
+    "image": "/images/1777420710623-WhatsApp_Image_2026-04-29_at_2.50.59_AM.jpeg"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "mostafa",
+    "description": "Our flagship suite offers breathtaking direct views of the Giza Pyramids from your private window. Featuring a luxurious spa bathtub, soundproofed walls, and premium Egyptian cotton bedding, this is the ultimate Venus Hotel experience.",
+    "size": "323 ft² (30 m²)",
+    "price": 80,
+    "capacity": 2,
+    "view": "Direct Pyramid View",
+    "amenities": [
+      "Free WiFi",
+      "Air Conditioning",
+      "Spa Bathtub / Hot Tub",
+      "LCD Satellite TV",
+      "Soundproofing",
+      "Rainfall Shower",
+      "Mini Bar",
+      "Electric Kettle",
+      "Free Tea & Coffee",
+      "Designer Toiletries",
+      "Safety Deposit Box",
+      "Daily Housekeeping"
+    ],
+    "highlights": [
+      "Direct Pyramid View",
+      "Spa Bathtub",
+      "Soundproofed",
+      "Mountain View"
+    ],
+    "image": "/images/1776210024416-36f0bba1-2b86-45d7-ad0d-4141c57d5a32.jfif",
+    "rating": 5,
+    "available": true,
+    "images": [
+      "/images/1776210024416-36f0bba1-2b86-45d7-ad0d-4141c57d5a32.jfif"
+    ]
+  }
+]

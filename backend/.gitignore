@@ -1,0 +1,21 @@
+# Backend gitignore
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+
+# Uploaded files (don't commit user uploads)
+uploads/
+
+# Log files (don't commit logs)
+logs/
+
+# Virtual environment
+venv/
+.venv/
+env/
+.env/
